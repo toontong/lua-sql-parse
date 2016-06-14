@@ -1,3 +1,15 @@
+# cmake building files
+CMakeFiles/*
+src/CMakeFiles/*
+test/CMakeFiles/*
+Makefile
+CMakeCache.txt
+CopyOfCMakeCache.txt
+*.cmake
+*.make
+src/Makefile
+src/Makefile
+
 # Object files
 *.o
 *.ko
